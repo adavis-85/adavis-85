@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adavis-85&theme=<dark>" />
 
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
