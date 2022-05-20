@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=Julia&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-MySql-informational?style=flat&logo=MySql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=Julia&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-MySql-informational?style=flat&logo=MySql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adavis-85&theme=<dark>" />
