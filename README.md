@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 
+![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adavis-85&theme=<dark>" />
 <img align="top-right" src="https://github-readme-stats.vercel.app/api//?username=adavis-85&theme=<dark>" />
