@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api//?username=adavis-85&theme=<dark>" />
 
 
+
+
+
+
 You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
