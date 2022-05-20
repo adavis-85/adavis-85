@@ -26,6 +26,16 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=adavis-85&theme=dark" />
 
 
+
+
+
+
+
+
+
+
+
+
 <!-- Actual text -->
 
 
