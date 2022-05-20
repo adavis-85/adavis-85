@@ -41,14 +41,13 @@ Here are some ideas to get you started:
 <!-- Actual text -->
 
 
-You can find me on [![Medium][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![LinkedIn][1.2]][1]
 
 <!-- Icons -->
 
-[1.2]: https://user-images.githubusercontent.com/58529391/169624495-3c3b45ce-1819-4cb8-98fa-a71d0f9284f8.svg
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
-[2]: https://www.linkedin.com/in/adam-davis-8b923566/
-[1]: https://slowandsteadybrain.medium.com/
+[1]: https://www.linkedin.com/in/adam-davis-8b923566/
+
