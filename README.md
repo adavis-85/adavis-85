@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-
+<!-- Actual text -->
 
 
 You can find me on [![LinkedIn][1.2]][1].
