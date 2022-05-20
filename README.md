@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 
 
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
@@ -49,7 +52,3 @@ You can find me on [![LinkedIn][1.2]][1].
 
 [1]: https://www.linkedin.com/in/adam-davis-8b923566/
 
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
