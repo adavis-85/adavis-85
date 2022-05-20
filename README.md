@@ -39,3 +39,8 @@ You can find me on [![LinkedIn][1.2]][1].
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/adam-davis-8b923566/
+
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
