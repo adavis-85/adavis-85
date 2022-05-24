@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 <!-- Actual text -->
 
 
-You can find me on [![LinkedIn][1.2]][1]
+You can find me on [![LinkedIn][1.2]][1] and [![Medium][2.1][2]
 
 <!-- Icons -->
 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
+[2.1]: ![med](https://user-images.githubusercontent.com/58529391/170141580-404f3af7-2dc9-4290-bb86-7a6fc2501764.JPG)
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/adam-davis-8b923566/
-
+[2]: https://slowandsteadybrain.medium.com/
