@@ -36,7 +36,7 @@ You can find me on [![LinkedIn][1.2]][1] and [![Medium][3.2]][2]
 <!-- Icons -->
 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[3.2]: https://user-images.githubusercontent.com/58529391/170142667-a3e52ebd-fcdb-4d6b-aaf1-f50f858f6670.png
+[3.2]: https://user-images.githubusercontent.com/58529391/170142845-07355fec-21ac-4323-8d9c-befefcc0a2a6.png
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/adam-davis-8b923566/
