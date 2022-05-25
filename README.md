@@ -32,7 +32,3 @@ Here are some ideas to get you started:
 </div>
 
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
