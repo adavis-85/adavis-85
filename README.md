@@ -23,8 +23,12 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adavis-85&theme=<dark>" />
 <img align="top-right" src="https://github-readme-stats.vercel.app/api//?username=adavis-85&theme=<dark>" />
 
-***<p align="center">You can find me on:</p>
+<p align="center">You can find me on:</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-davis-8b923566/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://slowandsteadybrain.medium.com/)
+<p align="center">
+  <[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-davis-8b923566/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://slowandsteadybrain.medium.com/)
+  >
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-davis-8b923566/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://slowandsteadybrain.medium.com/)
 
