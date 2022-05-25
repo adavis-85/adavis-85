@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 
 
-                                                       ###You can find me on
+ [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://slowandsteadybrain.medium.com/)                                                     
