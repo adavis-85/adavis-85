@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 <img align="top-right" src="https://github-readme-stats.vercel.app/api//?username=adavis-85&theme=<dark>" />
 
 
-
- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://slowandsteadybrain.medium.com/)                                                     
+                                            ### You can find me on:
+                                    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-davis-8b923566/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://slowandsteadybrain.medium.com/)
