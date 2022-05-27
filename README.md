@@ -33,4 +33,9 @@ Here are some ideas to get you started:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Traveling Salesman Problem With the 2-opt Algorithm](https://slowandsteadybrain.medium.com/traveling-salesman-problem-ce78187cf1f3?source=rss-94f02f6b5f5------2)
+- [XGBOOST ALGORITHM FOR CLASSIFICATION](https://slowandsteadybrain.medium.com/xgboost-algorithm-for-classification-634efeab1a1c?source=rss-94f02f6b5f5------2)
+- [Arima Forecasting of Tesla Stock and Inflation Rates in R](https://slowandsteadybrain.medium.com/um-ask-not-what-forecasting-can-do-for-you-but-what-you-can-do-for-forecasting-uh-haha-c633d392c221?source=rss-94f02f6b5f5------2)
+- [Cooking to Math and Machine Learning-Wait, What?](https://slowandsteadybrain.medium.com/cooking-to-math-and-machine-learning-wait-what-90109ca13dd6?source=rss-94f02f6b5f5------2)
+- [DiffEqFlux — Differential Equations and Neural Networks](https://slowandsteadybrain.medium.com/diffeqflux-differential-equations-and-neural-networks-9cc1fda63868?source=rss-94f02f6b5f5------2)
 <!-- BLOG-POST-LIST:END -->
