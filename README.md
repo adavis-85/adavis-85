@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Predicting State of Health and Lifecycle of Li-ion Batteries &lpar;pt.2&rpar;](https://slowandsteadybrain.medium.com/predicting-state-of-health-and-lifecycle-of-li-ion-batteries-pt-2-291a1e8e208a?source=rss-94f02f6b5f5------2)
 - [Predicting State of Health and Lifecycle of Li-ion Batteries &lpar;pt.1&rpar;](https://slowandsteadybrain.medium.com/predicting-state-of-health-and-lifecycle-of-li-ion-batteries-pt-1-8ce772ac9432?source=rss-94f02f6b5f5------2)
 - [Traveling Salesman Problem With the 2-opt Algorithm](https://slowandsteadybrain.medium.com/traveling-salesman-problem-ce78187cf1f3?source=rss-94f02f6b5f5------2)
 - [XGBOOST ALGORITHM FOR CLASSIFICATION](https://slowandsteadybrain.medium.com/xgboost-algorithm-for-classification-634efeab1a1c?source=rss-94f02f6b5f5------2)
 - [Arima Forecasting of Tesla Stock and Inflation Rates in R](https://slowandsteadybrain.medium.com/um-ask-not-what-forecasting-can-do-for-you-but-what-you-can-do-for-forecasting-uh-haha-c633d392c221?source=rss-94f02f6b5f5------2)
-- [Cooking to Math and Machine Learning-Wait, What?](https://slowandsteadybrain.medium.com/cooking-to-math-and-machine-learning-wait-what-90109ca13dd6?source=rss-94f02f6b5f5------2)
 <!-- BLOG-POST-LIST:END -->
