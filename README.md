@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 </div>
 
-###  BLOG POSTS
+###  MEDIUM ARTICLES
 <!-- BLOG-POST-LIST:START -->
 - [Primary Dual Hybrid Gradient Algorithm for Convex Optimization Problems](https://slowandsteadybrain.medium.com/primary-dual-hybrid-gradient-algorithm-for-convex-optimization-problems-279911385675?source=rss-94f02f6b5f5------2)
 - [Predicting State of Health and Lifecycle of Li-ion Batteries &lpar;pt.2&rpar;](https://slowandsteadybrain.medium.com/predicting-state-of-health-and-lifecycle-of-li-ion-batteries-pt-2-291a1e8e208a?source=rss-94f02f6b5f5------2)
