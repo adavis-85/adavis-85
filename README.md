@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 - [XGBOOST ALGORITHM FOR CLASSIFICATION](https://slowandsteadybrain.medium.com/xgboost-algorithm-for-classification-634efeab1a1c?source=rss-94f02f6b5f5------2)
 <!-- BLOG-POST-LIST:END -->
 
-![Alt desc](http://www.example.com/image.png](https://aqdavis85.github.io/index.html.html)
+![Alt desc](https://aqdavis85.github.io/index.html.html)
