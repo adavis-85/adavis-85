@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 
-[[https://aqdavis85.github.io/index.html.html|ALT TEXT]]
+[[/https://aqdavis85.github.io/index.html.html|ALT TEXT]]
