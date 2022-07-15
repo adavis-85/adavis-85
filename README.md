@@ -42,3 +42,7 @@ Here are some ideas to get you started:
 
 
 ![My Remote Image](https://aqdavis85.github.io/index.html.html)
+
+
+
+![How to Create Animated GIF Screenshots in 3 Easy Steps _ The Lean Marketer - Google Chrome 2022-07-15 09-33-18(1)](https://user-images.githubusercontent.com/58529391/179315110-2c0ce178-0ccd-433c-adc1-93a21cc4b5f3.gif)
