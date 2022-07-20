@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Adam, and I love solving problems.  On this profile you'll find projects on data science, machine learning and even game theory.  I'm passionately curious and am always looking for my next topic to jump into.  Please peruse the repositories and reach out with any questions.
 
 <!--
 **adavis-85/adavis-85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
