@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ###  MEDIUM ARTICLES
 <!-- BLOG-POST-LIST:START -->
+- [How to: XGboost and Hyperparameter Tuning with AWS](https://slowandsteadybrain.medium.com/how-to-xgboost-and-hyperparameter-tuning-with-aws-b41dd60bfe2c?source=rss-94f02f6b5f5------2)
 - [Markowitz In A Recession](https://slowandsteadybrain.medium.com/markowitz-in-a-recession-ff8e1f083a74?source=rss-94f02f6b5f5------2)
 - [Translating Audio with Python](https://slowandsteadybrain.medium.com/translating-audio-with-python-2c1aafe527b7?source=rss-94f02f6b5f5------2)
 - [Three Dimensional Traveling Salesman Problem](https://slowandsteadybrain.medium.com/three-dimensional-traveling-salesman-problem-d093a10d7f2e?source=rss-94f02f6b5f5------2)
 - [Primary Dual Hybrid Gradient Algorithm for Game Theory](https://slowandsteadybrain.medium.com/primary-dual-hybrid-gradient-algorithm-for-convex-optimization-problems-279911385675?source=rss-94f02f6b5f5------2)
-- [Predicting State of Health and Lifecycle of Li-ion Batteries &lpar;pt.2&rpar;](https://slowandsteadybrain.medium.com/predicting-state-of-health-and-lifecycle-of-li-ion-batteries-pt-2-291a1e8e208a?source=rss-94f02f6b5f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 
