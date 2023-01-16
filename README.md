@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=Julia&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-MySql-informational?style=flat&logo=MySql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=MicrosoftExcel&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a) 
-
+![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
 
 
 
