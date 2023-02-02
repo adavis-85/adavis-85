@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 ###  MEDIUM ARTICLES
 <!-- BLOG-POST-LIST:START -->
+- [HOW TO #4: MULITPLE SHOOTING WITH DIFFEQFLUX.JL](https://slowandsteadybrain.medium.com/how-to-4-mulitple-shooting-with-diffeqflux-jl-9ec91fd838d7?source=rss-94f02f6b5f5------2)
 - [How to #3 : Tree Optimization for XGBoost.](https://slowandsteadybrain.medium.com/how-to-3-tree-optimization-for-xgboost-ee8a7eb6f8c2?source=rss-94f02f6b5f5------2)
 - [How to #2: Load Model from Endpoint for Inference with AWS](https://slowandsteadybrain.medium.com/how-to-2-load-model-from-endpoint-for-inference-with-aws-4f75e74c63c8?source=rss-94f02f6b5f5------2)
 - [How to: XGboost and Hyperparameter Tuning with AWS](https://slowandsteadybrain.medium.com/how-to-xgboost-and-hyperparameter-tuning-with-aws-b41dd60bfe2c?source=rss-94f02f6b5f5------2)
 - [Markowitz In A Recession](https://slowandsteadybrain.medium.com/markowitz-in-a-recession-ff8e1f083a74?source=rss-94f02f6b5f5------2)
-- [Translating Audio with Python](https://slowandsteadybrain.medium.com/translating-audio-with-python-2c1aafe527b7?source=rss-94f02f6b5f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 
