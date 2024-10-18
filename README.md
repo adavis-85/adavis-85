@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 ###  MEDIUM ARTICLES
 <!-- BLOG-POST-LIST:START -->
+- [How To #11: Hybrid Recommendation System — Online Platform](https://slowandsteadybrain.medium.com/how-to-11-hybrid-recommendation-system-online-platform-51c477d7a515?source=rss-94f02f6b5f5------2)
+- [How to #10: What To Do With Average Treatment Effects and Data](https://slowandsteadybrain.medium.com/how-to-10-what-to-do-with-average-treatment-effects-and-data-4ce2a483dd59?source=rss-94f02f6b5f5------2)
 - [How To # 9: Causal Inference Methods-DeepIV against Causal ForestDML](https://slowandsteadybrain.medium.com/how-to-9-causal-inference-methods-deepiv-against-causal-forestdml-403d833f0a55?source=rss-94f02f6b5f5------2)
 - [How to #8: Multi-treatment and optimal policy with EconMl and DoWhy](https://slowandsteadybrain.medium.com/how-to-8-multi-treatment-and-optimal-policy-with-econml-and-dowhy-eb30bac11718?source=rss-94f02f6b5f5------2)
 - [How to #7: A/B testing with DoWhy and EconML](https://slowandsteadybrain.medium.com/how-to-7-a-b-testing-with-dowhy-and-econml-fa90825b404d?source=rss-94f02f6b5f5------2)
-- [How to #6: Solving an imbalanced multi-commodity transportation problem](https://slowandsteadybrain.medium.com/how-to-6-solving-an-imbalanced-multi-commodity-transportation-problem-5d9aa7f51762?source=rss-94f02f6b5f5------2)
-- [How to #5: 3D Bin Packing](https://slowandsteadybrain.medium.com/how-to-5-3d-bin-packing-89e1fed3eaf0?source=rss-94f02f6b5f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 
